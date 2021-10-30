@@ -1,3 +1,5 @@
+--Nestor Alexis Zamora Orellana
+
 --Creamos la Base de Datos
 create database HospitalBD;
 use HospitalBD;
